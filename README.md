@@ -1,4 +1,7 @@
-## Hi
+# My projects
+- [arirs](https://github.com/seffradev/arirs)
+
+# Hi
 My name is Hampus, but online I refer myself to Seffra.
 I have been programming as a hobby sometime since 2012 and initially I started building games, but today I work on systems mostly related to networking. 
 
@@ -21,4 +24,4 @@ My current favourite editor is Neovim, but I have used VS Code professionally so
 - 📫 How to reach me:
   - email: hampus.avekvist@hey.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: old phones send signals, and you can interpret those signals however you prefer seffra.dev
+- ⚡ Fun fact: old phones send signals, and you can interpret those signals however you prefer
