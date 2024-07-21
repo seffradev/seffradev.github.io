@@ -1,5 +1,5 @@
 # My projects
-- [arirs](https://github.com/seffradev/arirs)
+- [asterisk-rs](https://github.com/seffradev/asterisk-rs)
 
 # Hi
 My name is Hampus, but online I refer myself to Seffra.
